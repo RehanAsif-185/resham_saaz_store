@@ -22,7 +22,7 @@ nav{ display:flex;
   
   justify-content:space-between;
  background-color:#490a46;
-height: 8vh;
+ min-height: 8vh;
 align-items: center;
 padding: 0 40px;
 width:100%;
