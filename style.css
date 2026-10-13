@@ -124,7 +124,7 @@ a{
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-margin-left: 20px;
+margin-left : 50px;
 
 
      }
@@ -223,5 +223,12 @@ margin-left: 20px;
   }
 }
  
+footer p {
+  text-align: center;
+  padding: 20px;
+  background-color: #490a46;
+  color: antiquewhite;
+  margin-top: 20px;
+}
 
  
